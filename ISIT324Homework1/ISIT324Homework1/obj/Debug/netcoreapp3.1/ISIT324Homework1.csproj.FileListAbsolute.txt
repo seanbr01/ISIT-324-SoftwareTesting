@@ -1,0 +1,11 @@
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.exe
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.deps.json
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.runtimeconfig.json
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.runtimeconfig.dev.json
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.dll
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\bin\Debug\netcoreapp3.1\ISIT324Homework1.pdb
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\obj\Debug\netcoreapp3.1\ISIT324Homework1.csprojAssemblyReference.cache
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\obj\Debug\netcoreapp3.1\ISIT324Homework1.AssemblyInfoInputs.cache
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\obj\Debug\netcoreapp3.1\ISIT324Homework1.AssemblyInfo.cs
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\obj\Debug\netcoreapp3.1\ISIT324Homework1.dll
+C:\Users\seanb\source\repos\ISIT324Homework1\ISIT324Homework1\obj\Debug\netcoreapp3.1\ISIT324Homework1.pdb
