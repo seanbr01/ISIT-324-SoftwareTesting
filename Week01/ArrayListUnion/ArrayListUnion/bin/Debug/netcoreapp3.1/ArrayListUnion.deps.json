@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayListUnion/1.0.0": {
+        "runtime": {
+          "ArrayListUnion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayListUnion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

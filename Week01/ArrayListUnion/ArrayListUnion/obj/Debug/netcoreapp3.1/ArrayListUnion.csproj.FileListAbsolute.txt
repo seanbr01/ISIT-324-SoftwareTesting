@@ -1,0 +1,11 @@
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.exe
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.deps.json
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.runtimeconfig.json
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.runtimeconfig.dev.json
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.dll
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\bin\Debug\netcoreapp3.1\ArrayListUnion.pdb
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\obj\Debug\netcoreapp3.1\ArrayListUnion.csprojAssemblyReference.cache
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\obj\Debug\netcoreapp3.1\ArrayListUnion.AssemblyInfoInputs.cache
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\obj\Debug\netcoreapp3.1\ArrayListUnion.AssemblyInfo.cs
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\obj\Debug\netcoreapp3.1\ArrayListUnion.dll
+C:\Users\seanbr01\source\repos\ArrayListUnion\ArrayListUnion\obj\Debug\netcoreapp3.1\ArrayListUnion.pdb
