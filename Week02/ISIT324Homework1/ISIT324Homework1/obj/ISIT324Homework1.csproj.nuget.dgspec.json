@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj": {}
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week02\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week02\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week02\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj",
         "projectName": "ISIT324Homework1",
-        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj",
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week02\\ISIT324Homework1\\ISIT324Homework1\\ISIT324Homework1.csproj",
         "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ISIT324Homework1\\ISIT324Homework1\\obj\\",
+        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week02\\ISIT324Homework1\\ISIT324Homework1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
