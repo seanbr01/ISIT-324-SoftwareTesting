@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj": {}
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week03\\HW02\\HW02\\HW02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week03\\HW02\\HW02\\HW02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
-        "projectName": "ArrayListUnion",
-        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week03\\HW02\\HW02\\HW02.csproj",
+        "projectName": "HW02",
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week03\\HW02\\HW02\\HW02.csproj",
         "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\obj\\",
+        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\Week03\\HW02\\HW02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

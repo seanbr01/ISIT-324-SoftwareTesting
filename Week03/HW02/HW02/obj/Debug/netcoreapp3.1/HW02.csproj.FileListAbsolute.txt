@@ -1,0 +1,11 @@
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.exe
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.deps.json
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.runtimeconfig.json
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.runtimeconfig.dev.json
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\bin\Debug\netcoreapp3.1\HW02.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\obj\Debug\netcoreapp3.1\HW02.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\obj\Debug\netcoreapp3.1\HW02.AssemblyInfoInputs.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\obj\Debug\netcoreapp3.1\HW02.AssemblyInfo.cs
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\obj\Debug\netcoreapp3.1\HW02.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week03\HW02\HW02\obj\Debug\netcoreapp3.1\HW02.pdb
