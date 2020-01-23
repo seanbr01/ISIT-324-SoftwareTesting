@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\seanbr01\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\seanb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
+      "projectUniqueName": "D:\\Repo\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
       "projectName": "ArrayListUnion",
-      "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
-      "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\obj\\",
+      "projectPath": "D:\\Repo\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\ArrayListUnion.csproj",
+      "packagesPath": "C:\\Users\\seanb\\.nuget\\packages\\",
+      "outputPath": "D:\\Repo\\ISIT-324-SoftwareTesting\\ArrayListUnion\\ArrayListUnion\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\seanbr01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\seanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://ptdtfs01.noa.nintendo.com/tfs/PTD_Dev/_packaging/ProgramAutomation/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLast30", "FindLast30\FindLast30.csproj", "{15CAAD25-82E6-4053-ACEC-F15948EA7805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLast30Tests", "FindLast30Tests\FindLast30Tests.csproj", "{E6C8F9A2-E30C-4AF4-9ADB-C835D0206941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CAAD25-82E6-4053-ACEC-F15948EA7805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CAAD25-82E6-4053-ACEC-F15948EA7805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CAAD25-82E6-4053-ACEC-F15948EA7805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CAAD25-82E6-4053-ACEC-F15948EA7805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C8F9A2-E30C-4AF4-9ADB-C835D0206941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C8F9A2-E30C-4AF4-9ADB-C835D0206941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C8F9A2-E30C-4AF4-9ADB-C835D0206941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C8F9A2-E30C-4AF4-9ADB-C835D0206941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A0DDB1-AD5E-4C62-810F-B9F2F3AC7B95}
+	EndGlobalSection
+EndGlobal

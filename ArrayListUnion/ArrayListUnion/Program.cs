@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ArrayListUnion
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListUnion", "ArrayListUnion\ArrayListUnion.csproj", "{FBA5508A-3BE5-4260-928A-2D683A844F42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListUnion", "ArrayListUnion\ArrayListUnion.csproj", "{FBA5508A-3BE5-4260-928A-2D683A844F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionTests", "UnionTests\UnionTests.csproj", "{BAA0B54A-EB0B-4F29-AD7E-250AD9C2D03D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FBA5508A-3BE5-4260-928A-2D683A844F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA5508A-3BE5-4260-928A-2D683A844F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA5508A-3BE5-4260-928A-2D683A844F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA0B54A-EB0B-4F29-AD7E-250AD9C2D03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA0B54A-EB0B-4F29-AD7E-250AD9C2D03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA0B54A-EB0B-4F29-AD7E-250AD9C2D03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA0B54A-EB0B-4F29-AD7E-250AD9C2D03D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
