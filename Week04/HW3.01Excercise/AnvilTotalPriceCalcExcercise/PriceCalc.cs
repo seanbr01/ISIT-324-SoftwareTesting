@@ -18,14 +18,14 @@ namespace AnvilTotalPriceCalcExcercise
             //
             //  If either quantity or regPrice is <= 0, discount price should return 0
 
-
             double discPrice = 0;
 
             if (quantity >= 20)
             {
                 discPrice = regPrice * .8;
             }
-            else if (quantity > 10 && quantity < 20)
+            //else if (quantity > 10 && quantity < 20)
+            else if (quantity >= 10 && quantity < 20)
             {
                 discPrice = regPrice * .9;
             }
@@ -50,6 +50,7 @@ namespace AnvilTotalPriceCalcExcercise
             //
             //IndexOutOfRange exception if zone is not represented in array.
 
+            zone--; //Fix for selecting zone
             int[] zoneCost = new int[] { 10, 20, 30 };
             return zoneCost[zone];
         }

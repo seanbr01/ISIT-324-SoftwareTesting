@@ -10,3 +10,8 @@ C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPric
 C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csproj.CoreCompileInputs.cache
 C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
 C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb
