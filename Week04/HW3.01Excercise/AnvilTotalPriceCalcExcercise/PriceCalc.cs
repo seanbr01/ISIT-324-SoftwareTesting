@@ -18,6 +18,11 @@ namespace AnvilTotalPriceCalcExcercise
             //
             //  If either quantity or regPrice is <= 0, discount price should return 0
 
+            if (regPrice < 0)
+            {
+                return 0;
+            }
+
             double discPrice = 0;
 
             if (quantity >= 20)
