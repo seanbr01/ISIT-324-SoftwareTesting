@@ -1,0 +1,7 @@
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\bin\Debug\netstandard2.0\NFLMath.deps.json
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\bin\Debug\netstandard2.0\NFLMath.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\bin\Debug\netstandard2.0\NFLMath.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\obj\Debug\netstandard2.0\NFLMath.AssemblyInfoInputs.cache
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\obj\Debug\netstandard2.0\NFLMath.AssemblyInfo.cs
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\obj\Debug\netstandard2.0\NFLMath.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week05\324_Inclass_012920\324_Inclass_012920\obj\Debug\netstandard2.0\NFLMath.pdb
