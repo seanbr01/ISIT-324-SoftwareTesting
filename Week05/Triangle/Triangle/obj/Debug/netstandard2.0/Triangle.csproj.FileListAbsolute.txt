@@ -1,0 +1,8 @@
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.deps.json
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.AssemblyInfo.cs
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.pdb
