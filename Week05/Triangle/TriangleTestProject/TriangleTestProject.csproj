@@ -63,7 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Triangle\Triangle.csproj">
-      <Project>{e668dfd4-8f7e-4f02-9f28-dcd14de764cf}</Project>
+      <Project>{f34dee4b-3c7e-4c19-8863-13acc9e2e0e1}</Project>
       <Name>Triangle</Name>
     </ProjectReference>
   </ItemGroup>

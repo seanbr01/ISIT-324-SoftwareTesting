@@ -15,3 +15,8 @@ C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01E
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csprojAssemblyReference.cache
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csprojAssemblyReference.cache
+D:\Repo\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week04\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb

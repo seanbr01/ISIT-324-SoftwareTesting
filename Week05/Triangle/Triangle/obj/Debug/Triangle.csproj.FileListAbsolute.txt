@@ -1,0 +1,5 @@
+D:\Repo\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\bin\Debug\Triangle.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\Repo\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\Triangle.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week05\Triangle\Triangle\obj\Debug\Triangle.pdb
