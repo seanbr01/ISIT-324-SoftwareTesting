@@ -1,0 +1,6 @@
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\bin\Debug\Midterm.exe.config
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\bin\Debug\Midterm.exe
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\bin\Debug\Midterm.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\obj\Debug\Midterm.csprojAssemblyReference.cache
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\obj\Debug\Midterm.exe
+D:\Repo\ISIT-324-SoftwareTesting\Midterm\Midterm\obj\Debug\Midterm.pdb
