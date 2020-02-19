@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FakesStubWeather.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:WeatherAnalysis.Fakes.ShimWeather">
+            <summary>Shim type of WeatherAnalysis.Weather</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeather.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeather.#ctor(WeatherAnalysis.Weather)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:WeatherAnalysis.Fakes.ShimWeather.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeather.AllInstances.GetTemperature">
+            <summary>Sets the shim of Weather.GetTemperature()</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeather.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeather.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeather.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeather.Bind(WeatherAnalysis.IWeather)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeather.Constructor">
+            <summary>Sets the shim of Weather.Weather()</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeather.GetTemperature">
+            <summary>Sets the shim of Weather.GetTemperature()</summary>
+        </member>
+        <member name="T:WeatherAnalysis.Fakes.ShimWeatherUtilities">
+            <summary>Shim type of WeatherAnalysis.WeatherUtilities</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeatherUtilities.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeatherUtilities.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.ShimWeatherUtilities.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeatherUtilities.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeatherUtilities.JudgeWeatherByEarthHistoryIWeather">
+            <summary>Sets the shim of WeatherUtilities.JudgeWeatherByEarthHistory(IWeather w)</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.ShimWeatherUtilities.JudgeWeatherByWaterStateIWeather">
+            <summary>Sets the shim of WeatherUtilities.JudgeWeatherByWaterState(IWeather w)</summary>
+        </member>
+        <member name="T:WeatherAnalysis.Fakes.StubIWeather">
+            <summary>Stub type of WeatherAnalysis.IWeather</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.StubIWeather.#ctor">
+            <summary>Initializes a new instance of type StubIWeather</summary>
+        </member>
+        <member name="F:WeatherAnalysis.Fakes.StubIWeather.GetTemperature">
+            <summary>Sets the stub of IWeather.GetTemperature()</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.StubIWeather.WeatherAnalysis#IWeather#GetTemperature">
+            <summary>Sets the stub of IWeather.GetTemperature()</summary>
+        </member>
+        <member name="T:WeatherAnalysis.Fakes.StubWeather">
+            <summary>Stub type of WeatherAnalysis.Weather</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.StubWeather.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.StubWeather.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:WeatherAnalysis.Fakes.StubWeather.InitializeStub">
+            <summary>Initializes a new instance of type StubWeather</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.StubWeather.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:WeatherAnalysis.Fakes.StubWeather.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

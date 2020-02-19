@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpacecraftInterface.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:SpacecraftInterface.Fakes.ShimTelemetry">
+            <summary>Shim type of SpacecraftInterface.Telemetry</summary>
+        </member>
+        <member name="M:SpacecraftInterface.Fakes.ShimTelemetry.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SpacecraftInterface.Fakes.ShimTelemetry.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SpacecraftInterface.Fakes.ShimTelemetry.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SpacecraftInterface.Fakes.ShimTelemetry.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SpacecraftInterface.Fakes.ShimTelemetry.GetTempFromSpacecraft">
+            <summary>Sets the shim of Telemetry.GetTempFromSpacecraft()</summary>
+        </member>
+    </members>
+</doc>

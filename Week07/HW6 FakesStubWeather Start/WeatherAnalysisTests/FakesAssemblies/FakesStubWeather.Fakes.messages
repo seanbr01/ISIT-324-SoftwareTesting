@@ -1,0 +1,2 @@
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week07\HW6 FakesStubWeather Start\WeatherAnalysisTests\Fakes\FakesStubWeather.fakes : warning : Cannot generate stub for WeatherAnalysis.WeatherUtilities: type is sealed.
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week07\HW6 FakesStubWeather Start\WeatherAnalysisTests\Fakes\FakesStubWeather.fakes : warning : Cannot generate shim for WeatherAnalysis.IWeather: type is an interface.
