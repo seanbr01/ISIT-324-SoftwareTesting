@@ -1,0 +1,44 @@
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\bin\Debug\MoqExample.exe.config
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\bin\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\bin\Debug\MoqExample.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\obj\Debug\MoqExample.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\obj\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExample\MoqExample\obj\Debug\MoqExample.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.exe.config
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.exe.config
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MoqExample.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.csproj.CopyComplete
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.exe
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MoqExample\obj\Debug\MoqExample.pdb
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\MoqExample.exe.config
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\MoqExample.exe
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\MoqExample.pdb
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\MusicActClassLibrary.dll
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\obj\Debug\MoqExample.csprojAssemblyReference.cache
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\obj\Debug\MoqExample.csproj.CopyComplete
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\obj\Debug\MoqExample.exe
+C:\Users\denni\Downloads\MoqExample\MoqExample\MoqExample\obj\Debug\MoqExample.pdb
