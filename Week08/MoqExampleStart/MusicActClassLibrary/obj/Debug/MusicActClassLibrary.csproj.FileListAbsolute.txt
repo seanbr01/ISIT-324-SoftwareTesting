@@ -1,0 +1,25 @@
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.dll
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.pdb
+C:\Users\denni\OneDrive\2019.01 ISIT 324\Programs\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\bin\Debug\MusicActClassLibrary.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\MoqExampleStart\MusicActClassLibrary\obj\Debug\MusicActClassLibrary.pdb
