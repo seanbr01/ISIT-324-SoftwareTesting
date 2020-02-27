@@ -42,17 +42,37 @@ namespace CarsWithPizzazzTests
             Assert.AreEqual(locationOnLot, result.LocationOnLot);
         }
 
-
-        public void ReturnCorrectAutos_WhenMakeIsValid(string vin, string locationOnLot)
+        [DataTestMethod]
+        [DataRow(-300)]
+        [DataRow(-274)]
+        [DataRow(-1000)]
+        public void ReturnThrowException_WhenLessThan273(double temperature)
         {
             //Arrange
             var autoController = MockDataBase();
 
             //Act
-            var result = autoController.FindCarsByMake(vin);
 
             //Assert
-            Assert.AreEqual(locationOnLot, result.LocationOnLot);
+            act.Should().Throw<ColderThanAbsoluteZeroException>();
+        }
+
+        [DataTestMethod]
+        [DataRow("Dodge", 1)]
+        [DataRow("Cadillac", 2)]
+        [DataRow("Hummer", 1)]
+        [DataRow("Triumph", 2)]
+        [DataRow("Triumph", 2)]
+        public void ReturnCorrectAutos_WhenMakeIsValid(string make, int expected)
+        {
+            //Arrange
+            var autoController = MockDataBase();
+
+            //Act
+            var result = autoController.FindCarsByMake(make);
+
+            //Assert
+            Assert.AreEqual(expected, result.Count);
         }
 
         private SUT.AutoControl MockDataBase()

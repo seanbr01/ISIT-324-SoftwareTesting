@@ -3,3 +3,8 @@ C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\ISIT324
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\CarsWithPizzazz.csprojAssemblyReference.cache
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\ISIT324_HW6_MOQ.dll
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\ISIT324_HW6_MOQ.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\bin\Debug\ISIT324_HW6_MOQ.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\bin\Debug\ISIT324_HW6_MOQ.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\CarsWithPizzazz.csprojAssemblyReference.cache
+D:\Repo\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\ISIT324_HW6_MOQ.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week08\ISIT324_HW6_MOQ\ISIT324_HW6_MOQ\obj\Debug\ISIT324_HW6_MOQ.pdb
