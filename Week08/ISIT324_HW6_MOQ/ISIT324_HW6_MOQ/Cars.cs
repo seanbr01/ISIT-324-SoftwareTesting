@@ -5,8 +5,11 @@ namespace CarsWithPizzazz
 {
     public interface IAutoDBAccess
     {
+        //LoadLot accesses the database and returns a collection of Auto objects
         List<Auto> LoadLot();
-        void SaveLot(List<Auto> lot);
+
+        //SaveLot writes results to the database following a change to the collection of Auto objects
+        bool SaveLot(List<Auto> lot);
     }
 
     public class CarCollection : IAutoDBAccess
@@ -16,7 +19,7 @@ namespace CarsWithPizzazz
             throw new NotImplementedException();
         }
 
-        public void SaveLot(List<Auto> lot)
+        public bool SaveLot(List<Auto> lot)
         {
             throw new NotImplementedException();
         }
@@ -80,10 +83,11 @@ namespace CarsWithPizzazz
 
         public List<Auto> AddCar(Auto newCarOnTheLot)
         {
-            //When implemented, this method will add a new car to the database.  If it fails, it raises one of these custom exceptions:
+            //AddCar() adds a new car to the database.  If it fails, it raises one of these custom exceptions:
             //- Wrong length VIN.  VIN must be 17 characters string. (In reality, it's a little more complex than that.)
             //- Duplicate VIN.  VINs are unique, like a GUID for cars.
             //- Duplicate location.  Each location on the lot can accommodate one car, so you can only have one car per.
+            //- Failure writing the result to the database, indicated by SaveLot() not returning true.
 
             var cars = this.inventory.LoadLot();
             if (newCarOnTheLot.VehicleIdentificationNumber.Length != 17) throw new InvalidVINException();
@@ -104,17 +108,19 @@ namespace CarsWithPizzazz
             }
 
             cars.Add(newCarOnTheLot);
-            this.inventory.SaveLot(cars);
+
+            if (!this.inventory.SaveLot(cars)) throw new SaveLotFailureException();
 
             return cars;
         }
 
         public List<Auto> RemoveCar(string vehicleIdentificationNumber)
         {
-            //When a car is sold (or stolen or scrapped), it is removed from the lot.  RemoveCar deletes the car from the database.
-            //If the delete is successful, RemoveCar returns true.
+            //When a car is sold (or stolen or scrapped), it is removed from the lot.  RemoveCar() deletes the car from the database.
+            //- If there is no car with a matching VIN, RemoveCar throws a VINNotFound exception.
+            //- If the SaveLot() method returns false, indicating an error writing the result to the database, RemoveCar throws a
+            //  SaveLotFailureException exception.
 
-            //Otherwise, if there is no car with a matching VIN, RemoveCar throws a VINNotFound Exception.
             var cars = this.inventory.LoadLot();
             int sub = 0;
             while (sub < cars.Count &&
@@ -130,6 +136,9 @@ namespace CarsWithPizzazz
             {
                 cars.Remove(cars[sub]);
             }
+
+            if (!this.inventory.SaveLot(cars)) throw new SaveLotFailureException();
+
             return cars;
         }
     }
@@ -146,16 +155,6 @@ namespace CarsWithPizzazz
     }
 
 
-    public class SaveLotFailureException : Exception
-    {
-        public SaveLotFailureException()
-        {
-        }
-
-        public SaveLotFailureException(string message) : base(message)
-        {
-        }
-    }
 
     public class InvalidVINException : Exception
     {
@@ -186,6 +185,16 @@ namespace CarsWithPizzazz
         }
 
         public DuplicateLocationException(string message) : base(message)
+        {
+        }
+    }
+
+    public class SaveLotFailureException : Exception
+    {
+        public SaveLotFailureException()
+        {
+        }
+        public SaveLotFailureException(string message) : base(message)
         {
         }
     }
