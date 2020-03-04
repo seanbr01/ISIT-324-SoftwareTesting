@@ -18,6 +18,8 @@ namespace ISIT_324_04
             string isosceles = "Isosceles";
             string scalene = "Scalene";
 
+            int maxLength = 200;
+
             int[] values = new int[3] { SideA, SideB, SideC };
 
             if (SideA <= 0 || SideB <= 0 || SideC <= 0)
@@ -28,6 +30,11 @@ namespace ISIT_324_04
             if (SideA + SideB <= SideC || SideA + SideC <= SideB || SideB + SideC <= SideA)
             {
                 throw new TwoSidesCannotBeLessThanThirdSideException("Two sides added together cannot be less than the third side.");
+            }
+
+            if (SideA > 200 || SideB > 200 || SideC > 200 )
+            {
+                throw new LengthGreaterThan200Exception("One or more sides exceeds the max length.");
             }
 
             switch (values.Distinct().Count())

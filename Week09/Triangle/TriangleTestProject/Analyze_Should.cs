@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SUT = ISIT_324_04.Triangle;
 using FluentAssertions;
 using Triangle;
@@ -67,9 +68,10 @@ namespace TriangleTestProject
             string results;
 
             //Act
+            Action act = () => results = SUT.Analyze(sideA, sideB, sideC);
 
             //Assert
-            Assert.ThrowsException<SideLessThanOneException>(() => results = SUT.Analyze(sideA, sideB, sideC));
+            act.Should().Throw<SideLessThanOneException>();
         }
 
         [DataTestMethod]
@@ -82,9 +84,10 @@ namespace TriangleTestProject
             string results;
 
             //Act
+            Action act = () => results = SUT.Analyze(sideA, sideB, sideC);
 
             //Assert
-            Assert.ThrowsException<TwoSidesCannotBeLessThanThirdSideException>(() => results = SUT.Analyze(sideA, sideB, sideC));
+            act.Should().Throw<TwoSidesCannotBeLessThanThirdSideException>();
         }
     }
 }
