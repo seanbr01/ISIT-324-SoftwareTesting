@@ -32,7 +32,7 @@ namespace ISIT_324_04
                 throw new TwoSidesCannotBeLessThanThirdSideException("Two sides added together cannot be less than the third side.");
             }
 
-            if (SideA > 200 || SideB > 200 || SideC > 200 )
+            if (SideA > maxLength || SideB > maxLength || SideC > maxLength)
             {
                 throw new LengthGreaterThan200Exception("One or more sides exceeds the max length.");
             }
