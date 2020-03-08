@@ -8,3 +8,8 @@ C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangl
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.dll
 C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\bin\Debug\Triangle.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.dll
+D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle\obj\Debug\Triangle.pdb

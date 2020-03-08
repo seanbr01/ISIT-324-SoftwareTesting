@@ -6,17 +6,12 @@ namespace ISIT_324_04
 {
     public class Triangle
     {
-        //This version of the analyze method supports the Red phase.
-        //public static string Analyze(int SideA, int SideB, int SideC)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
         public static string Analyze(int SideA, int SideB, int SideC)
         {
             string equilateral = "Equilateral";
             string isosceles = "Isosceles";
             string scalene = "Scalene";
+            string notATriangle = "Not a triangle";
 
             int maxLength = 200;
 
@@ -29,12 +24,13 @@ namespace ISIT_324_04
 
             if (SideA + SideB <= SideC || SideA + SideC <= SideB || SideB + SideC <= SideA)
             {
-                throw new TwoSidesCannotBeLessThanThirdSideException("Two sides added together cannot be less than the third side.");
+                //throw new TwoSidesCannotBeLessThanThirdSideException("Two sides added together cannot be less than the third side.");
+                return notATriangle;
             }
 
             if (SideA > maxLength || SideB > maxLength || SideC > maxLength)
             {
-                throw new LengthGreaterThan200Exception("One or more sides exceeds the max length.");
+                throw new LengthGreaterThan199Exception("One or more sides exceeds the max length.");
             }
 
             switch (values.Distinct().Count())
@@ -46,7 +42,7 @@ namespace ISIT_324_04
                 case 3:
                     return scalene;
                 default:
-                    throw new SideLessThanOneException("Not a Triangle");
+                    return notATriangle;
             }
         }
     }
