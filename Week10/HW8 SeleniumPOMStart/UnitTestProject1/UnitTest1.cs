@@ -8,11 +8,19 @@ namespace BCSiteTest
     [TestClass]
     public class HomePage_Should
     {
+        AboutPage aboutPage;
+        CampusLife campusLife;
+        ClassesPage classesPage;
+        Enrollment enrollment;
+        HomePage homePage;
+        ProgramsOfStudy programsOfStudy;
+        Services services;
 
         [TestInitialize]
         public void InitDriver()
         {
             Driver.InitializeDriver();
+
         }
 
         [TestMethod]
