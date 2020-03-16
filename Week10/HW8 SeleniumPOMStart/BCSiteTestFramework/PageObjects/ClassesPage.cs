@@ -9,15 +9,9 @@ namespace BCSiteTestFramework.PageObjects
         //Not sure RemoteWebDriver is necessary.  private RemoteWebDriver
         private IWebDriver _driver;
 
-        public ClassesPage(IWebDriver driver) => _driver = driver;  
+        public ClassesPage(IWebDriver driver) => _driver = driver;
 
-        IWebElement Title
-        {
-            get
-            {
-                return _driver.FindElement(By.CssSelector("#content > h2"));
-            }
-        }
+        IWebElement Title => _driver.FindElement(By.CssSelector("#content > h2"));
 
         //IWebElement Title => _driver.FindElement(By.CssSelector("#content > h2"));
 
@@ -33,6 +27,11 @@ namespace BCSiteTestFramework.PageObjects
          * - SearchResultDetail
          * 
          *********************************************************************/
+        IWebElement SearchBox => _driver.FindElement(By.CssSelector("#search-keyword"));
+        IWebElement SearchQuarterSelect => _driver.FindElement(By.Id("seach-quarter-select"));
+        IWebElement SearchButton => _driver.FindElement(By.CssSelector("#submitSearchForm > div > div > span > button"));
+        IWebElement SearchResultFirstInstance => _driver.FindElement(By.CssSelector("#content > h3 > a"));
+        IWebElement SearchResultDetail => _driver.FindElement(By.CssSelector("#content > h1"));
 
         public string GetTitleText() => Title.Text;
     }

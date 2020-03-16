@@ -15,13 +15,7 @@ namespace BCSiteTestFramework.PageObjects
         //Save for homework
         //
         //Alternative to expression-bodied method
-        IWebElement Programs
-        {
-            get
-            {
-                return _driver.FindElement(By.CssSelector("#nav-programs > a"));
-            }
-        }
+        IWebElement Programs => _driver.FindElement(By.CssSelector("#nav-programs > a"));
         IWebElement SearchBox => _driver.FindElement(By.Id("college-search-field"));
         IWebElement SearchButton => _driver.FindElement(By.CssSelector("#college-search-submit"));
 
