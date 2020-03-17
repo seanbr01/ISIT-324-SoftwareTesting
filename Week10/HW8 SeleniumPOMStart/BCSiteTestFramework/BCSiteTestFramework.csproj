@@ -72,12 +72,12 @@
   <ItemGroup>
     <Compile Include="Driver.cs" />
     <Compile Include="PageObjects\AboutPage.cs" />
-    <Compile Include="PageObjects\CampusLife.cs" />
+    <Compile Include="PageObjects\CampusLifePage.cs" />
     <Compile Include="PageObjects\ClassesPage.cs" />
-    <Compile Include="PageObjects\Enrollment.cs" />
+    <Compile Include="PageObjects\EnrollmentPage.cs" />
     <Compile Include="PageObjects\HomePage.cs" />
-    <Compile Include="PageObjects\ProgramsOfStudy.cs" />
-    <Compile Include="PageObjects\Services.cs" />
+    <Compile Include="PageObjects\ProgramsOfStudyPage.cs" />
+    <Compile Include="PageObjects\ServicesPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
