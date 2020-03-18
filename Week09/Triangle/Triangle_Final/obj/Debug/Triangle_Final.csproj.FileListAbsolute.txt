@@ -1,0 +1,5 @@
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle_Final\bin\Debug\Triangle_Final.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle_Final\bin\Debug\Triangle_Final.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle_Final\obj\Debug\Triangle_Final.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle_Final\obj\Debug\Triangle_Final.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\Triangle_Final\obj\Debug\Triangle_Final.pdb

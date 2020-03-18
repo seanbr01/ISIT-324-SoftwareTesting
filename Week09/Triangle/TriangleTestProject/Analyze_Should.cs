@@ -15,7 +15,7 @@ namespace TriangleTestProject
         [DataRow(10, 15, 25, "Not a triangle", DisplayName = "CaseID 1-3")]
         [DataRow(5, 10, 15, "Not a triangle", DisplayName = "CaseID 1-3")]
         [DataRow(10, 5, 15, "Not a triangle", DisplayName = "CaseID 1-3")]
-        [DataRow(10, 15, 5, "Not a triangle", DisplayName = "CaseID 1-3")]
+        
         public void ReturnNotATriangle_WhenTwoSidesAreLessThanTheThird(int sideA, int sideB, int sideC, string expectedTriangle)
         {
             //Arrange

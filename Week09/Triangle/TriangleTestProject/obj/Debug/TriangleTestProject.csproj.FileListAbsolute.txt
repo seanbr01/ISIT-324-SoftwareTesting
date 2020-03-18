@@ -70,3 +70,5 @@ D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\obj\Debug\T
 D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\obj\Debug\TriangleTestProject.csproj.CopyComplete
 D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\obj\Debug\TriangleTestProject.dll
 D:\Repo\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\obj\Debug\TriangleTestProject.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\bin\Debug\Triangle_Final.dll
+C:\Users\seanbr01\Documents\GitHub\repos\ISIT-324-SoftwareTesting\Week09\Triangle\TriangleTestProject\bin\Debug\Triangle_Final.pdb
